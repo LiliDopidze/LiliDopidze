@@ -15,6 +15,6 @@ Soft Skills: Design Thinking, Strong Communication, Stakeholder Management, Cros
 - [Book Sales Forecasting](https://github.com/LiliDopidze/book-sales-forecasting): Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.
 - [Ship Engine Anomaly Detection](https://github.com/LiliDopidze/ship-engine-anomaly-detection): Detecting abnormal engine patterns using unsupervised models.
 
-## 📬 Contact
+## Contact
 - Email: l.dopidze@gmail.com
 - LinkedIn: [linkedin.com/in/lili-dopidze](https://www.linkedin.com/in/lili-dopidze)
