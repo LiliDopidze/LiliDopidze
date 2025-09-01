@@ -12,23 +12,22 @@ I'm a data scientist passionate about machine learning, time series forecasting,
 
 
 ## Below are links to my individual projects:
-Book Sales Forecasting: Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.
 
-Ship Engine Anomaly Detection
-: Detecting abnormal engine patterns using unsupervised models.
+- [Book Sales Forecasting](https://github.com/LiliDopidze/book-sales-forecasting): Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LiliDopidze/book-sales-forecasting/blob/main/00-demo.ipynb)
 
-Customer Segmentation
-: Applying K-Means and PCA to optimize marketing segments.
+- [Ship Engine Anomaly Detection](https://github.com/LiliDopidze/ship-engine-anomaly-detection): Detecting abnormal engine patterns using unsupervised models.  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LiliDopidze/ship-engine-anomaly-detection/blob/main/00-demo.ipynb)
 
-Student Dropout Prediction
-: Leveraging XGBoost and neural networks to predict student dropout.
+- [Customer Segmentation](https://github.com/LiliDopidze/customer-segmentation): Applying K-Means and PCA to optimize marketing segments.  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LiliDopidze/customer-segmentation/blob/main/00-demo.ipynb)
 
-PureGym Reviews NLP
-: Extracting insights from customer reviews using Falcon-7B, BERTopic, and LDA.
+- [Student Dropout Prediction](https://github.com/LiliDopidze/student-dropout-prediction): Leveraging XGBoost and neural networks to predict student dropout.  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LiliDopidze/student-dropout-prediction/blob/main/00-demo.ipynb)
 
+- [PureGym Reviews NLP](https://github.com/LiliDopidze/puregym-reviews-nlp): Extracting insights from customer reviews using Falcon-7B, BERTopic, and LDA.  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LiliDopidze/puregym-reviews-nlp/blob/main/00-demo.ipynb)
 
-- [Book Sales Forecasting](https://github.com/LiliDopidze/book-sales-forecasting): Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.
-- [Ship Engine Anomaly Detection](https://github.com/LiliDopidze/ship-engine-anomaly-detection): Detecting abnormal engine patterns using unsupervised models.
 
 ## Contact
 - Email: l.dopidze@gmail.com
