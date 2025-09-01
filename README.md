@@ -12,6 +12,21 @@ I'm a data scientist passionate about machine learning, time series forecasting,
 
 
 ## Below are links to my individual projects:
+Book Sales Forecasting: Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.
+
+Ship Engine Anomaly Detection
+: Detecting abnormal engine patterns using unsupervised models.
+
+Customer Segmentation
+: Applying K-Means and PCA to optimize marketing segments.
+
+Student Dropout Prediction
+: Leveraging XGBoost and neural networks to predict student dropout.
+
+PureGym Reviews NLP
+: Extracting insights from customer reviews using Falcon-7B, BERTopic, and LDA.
+
+
 - [Book Sales Forecasting](https://github.com/LiliDopidze/book-sales-forecasting): Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.
 - [Ship Engine Anomaly Detection](https://github.com/LiliDopidze/ship-engine-anomaly-detection): Detecting abnormal engine patterns using unsupervised models.
 
