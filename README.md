@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**LiliDopidze/LiliDopidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist passionate about machine learning, time series forecasting, and natural language processing.
 
-Here are some ideas to get you started:
+## Skills
+Programming & ML: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Stata, PySpark
+Data Visualization: Matplotlib, Seaborn, Power BI
+Advanced Analytics: Regression, Classification, Clustering, Time-Series (ARIMA, LSTM, XGBoost), Neural Networks.
+NLP: Hugging Face Transformers, BERTopic, LDA, Falcon-7B
+Statistical Methods: A/B Testing, Hypothesis Testing, Econometrics, Impact Evaluation. 
+Soft Skills: Design Thinking, Strong Communication, Stakeholder Management, Cross-functional Leadership, Critical Thinking, Problem-solving. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+- [Book Sales Forecasting](https://github.com/LiliDopidze/book-sales-forecasting): Forecasting weekly book sales using ARIMA, LSTM, and XGBoost.
+- [Ship Engine Anomaly Detection](https://github.com/LiliDopidze/ship-engine-anomaly-detection): Detecting abnormal engine patterns using unsupervised models.
+
+## 📬 Contact
+- Email: l.dopidze@gmail.com
+- LinkedIn: [linkedin.com/in/lili-dopidze](https://www.linkedin.com/in/lili-dopidze)
