@@ -1,6 +1,6 @@
 ## Hi there, 
 
-I'm a data scientist passionate about machine learning, time series forecasting, and natural language processing.
+I am a data Scientist with 4+ years of experience applying machine learning, NLP, and advanced statistical modeling to generate actionable insights. Trained as an economist, I bring expertise in causal inference, time series forecasting, and econometrics, alongside hands-on skills in clustering, anomaly detection, and predictive analytics. Proficient in Python and Stata with experience using libraries and frameworks such as NumPy, pandas, scikit-learn, TensorFlow, PyTorch, and XGBoost. Skilled at building scalable analytical pipelines, translating complex data into clear recommendations, and bringing together technical teams with business stakeholders to deliver strategic solutions. 
 
 ## Skills
 - Programming & ML: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Stata, PySpark
