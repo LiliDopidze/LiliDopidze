@@ -1,6 +1,6 @@
 ## Hi there, 
 
-I am data Scientist with 4+ years of experience applying machine learning, NLP, and advanced analytics to deliver practical solutions. Trained in economics and causal inference, with expertise in time series forecasting, predictive modeling, and NLP (BERTopic, Hugging Face, LLMs). I enjoy solving complex problems, uncovering patterns in data, and translating them into clear, actionable insights for decision-makers.
+I am a data Scientist with 4+ years of experience applying machine learning, NLP, and advanced analytics to deliver practical solutions. Trained in economics and causal inference, with expertise in time series forecasting, predictive modeling, and NLP (BERTopic, Hugging Face, LLMs). I enjoy solving complex problems, uncovering patterns in data, and translating them into clear, actionable insights for decision-makers.
 
 ## Skills
 - Programming & ML: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), Stata, PySpark
